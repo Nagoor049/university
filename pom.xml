@@ -8,7 +8,7 @@
         <version>2.7.8</version>
         <relativePath/>
     </parent>
-    <groupId>com.exampleUpdated</groupId>
+    <groupId>com.example01</groupId>
     <artifactId>university</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>university</name>
